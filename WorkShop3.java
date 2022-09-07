@@ -1,5 +1,5 @@
 
-package workshop3_nuevo;
+package workshop3;
 
 import java.io.File;
 import java.io.FileNotFoundException;

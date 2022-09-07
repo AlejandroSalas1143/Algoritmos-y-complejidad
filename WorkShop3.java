@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Random;
 
-public class WorkShop3_nuevo {
+public class WorkShop3 {
     
     static int[] numbers;
     static LinkedList key;
